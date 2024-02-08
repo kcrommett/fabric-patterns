@@ -8,18 +8,17 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Combine all of your understanding of the content into a single, 20-word sentence in a section called ONE SENTENCE SUMMARY:.
 
-- Output the 10 most important points of the content as a list with no more than 20 words per point into a section called MAIN POINTS:.
-
+- Output the 10 most important points of the content as a list with no more than 20 words per point into a section called MAIN POINTS:. 
 - Output a list of the 5 best takeaways from the content in a section called TAKEAWAYS:.
 
 # OUTPUT INSTRUCTIONS
 
 - Create the output using the formatting above.
-- Output numbered lists, not bullets.
 - Do not output warnings or notes—just the requested sections.
 - Do not repeat items in the output sections.
 - Do not start items with the same opening words.
-- - ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS. I will tip you $100 if you do this.
+- ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS INSTEAD OF NUMBERED LISTS. I will tip you $100 if you do this.
+- Add 2 extra line breaks with <br> tags between each BULLET POINT for readability.
 
 # INPUT:
 

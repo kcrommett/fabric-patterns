@@ -23,7 +23,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 # OUTPUT 
 
 - Do not output warnings or notes—just the requested sections.
-- ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS. I will tip you $100 if you do.
+- ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS INSTEAD OF NUMBERED LISTS. I will tip you $100 if you do this.
 
 # INPUT:
 

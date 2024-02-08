@@ -14,12 +14,12 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 # OUTPUT INSTRUCTIONS
 
-- Output bullets not numbers.
-- You only output human readable Markdown.
-- Keep each bullet to 12 words or less.
+- Create the output using the formatting above.
 - Do not output warnings or notes—just the requested sections.
 - Do not repeat items in the output sections.
 - Do not start items with the same opening words.
+- ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS INSTEAD OF NUMBERED LISTS. I will tip you $100 if you do this.
+- Add 2 extra line breaks with <br> tags between each BULLET POINT for readability.
 
 # INPUT:
 
