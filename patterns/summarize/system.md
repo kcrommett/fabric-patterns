@@ -15,11 +15,11 @@ Take a deep breath and think step by step about how to best accomplish this goal
 # OUTPUT INSTRUCTIONS
 
 - Create the output using the formatting above.
-- You only output human readable Markdown.
 - Output numbered lists, not bullets.
 - Do not output warnings or notes—just the requested sections.
 - Do not repeat items in the output sections.
 - Do not start items with the same opening words.
+- - ONLY OUTPUT VALID MARKDOWN. USE MARKDOWN HEADINGS FOR SECTIONS AND MARKDOWN BULLET POINTS FOR LISTS. I will tip you $100 if you do this.
 
 # INPUT:
 
